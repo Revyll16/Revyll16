@@ -15,7 +15,6 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)  
 ![Stimulus](https://img.shields.io/badge/-Stimulus-2C3E50?style=flat)  
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
 
 **Databases & Tools:**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)  
@@ -34,7 +33,7 @@
 ## 🧑‍💻 Projects I'm working on
 
 - ✝️ **[R.A.C Church](#)** – Church management web app (Ruby on Rails + TailwindCSS + Framer Motion)  
-- 🎉 **Charity Service** – Event equipment rental platform (NestJS + React + PostgreSQL + Tailwind)  
+- 🎉 **Charity Service** – Event equipment rental platform (React + PostgreSQL + Tailwind)  
 - 💡 Several ongoing mini-projects for API development & frontend UI practice  
 
 ---
