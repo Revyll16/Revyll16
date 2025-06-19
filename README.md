@@ -1,5 +1,7 @@
 # 👋 Hello, I'm Revyll OGANDAGA
 
+![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Revyll16.Revyll16&left_text=Visitors)
+
 🚀 Junior Full-Stack Web Developer | Passionate about tech & real-world solutions  
 🎓 Reconverted from technical education to web development through **Le Wagon - Cape Town**  
 🌍 Based in Africa | Open to remote collaboration & innovative tech projects  
