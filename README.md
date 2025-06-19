@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Revyll OGANDAGA
 
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=Revyll16.Revyll16&left_text=👀 Visitors)
+![Profile views](https://komarev.com/ghpvc/?username=Revyll16&color=blueviolet&style=flat&label=Profile+views)
 
 🚀 Junior Full-Stack Web Developer | Passionate about tech & real-world solutions  
 🎓 Reconverted from technical education to web development through **Le Wagon - Cape Town**  
